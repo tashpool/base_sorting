@@ -1,5 +1,5 @@
 # base_sorting
-Common JS implemenation of some basic sorting algorithms
+Common JS implementation of some basic sorting algorithms
 
 ### Included Implementations
 * bubbleSort
